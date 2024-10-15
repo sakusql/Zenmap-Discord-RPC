@@ -21,7 +21,7 @@
       <ul>
         <li><a href="#Screenshot du RPC">Screenshot du RPC</a></li>
         <li><a href="#compatibilité">Compatibilité</a></li>
-        <li><a href="#7 Détails Disponibles Customisables">7 Détails Disponibles Customisables</a></li>
+        <li><a href="#7 Détails Disponibles Customisables">Options Disponibles</a></li>
         <li><a href="#built-with">Codé avec</a></li>
       </ul>
     </li>
