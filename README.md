@@ -21,6 +21,7 @@
       <ul>
         <li><a href="#Screenshot du RPC">Screenshot du RPC</a></li>
         <li><a href="#compatibilité">Compatibilité</a></li>
+        <li><a href="#7 Détails Disponibles Customisables">7 Détails Disponibles Customisables</a></li>
         <li><a href="#built-with">Codé avec</a></li>
       </ul>
     </li>
@@ -48,6 +49,11 @@
 |-----------------|------------------|
 | 7.95            | ✅ Supporté      |
 | 1.80            | ✅ Supporté      |
+
+## 7 Détails Disponibles Customisables
+
+![image](https://github.com/user-attachments/assets/e3ab6e33-c052-4020-8cbd-75172220826a)
+
 
 ### Built With
 
