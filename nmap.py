@@ -3,7 +3,7 @@ from pypresence import Presence
 import time
 import os
 
-client_id = '1295805537098928178'
+client_id = 'ID DISCORD CLIENT'
 
 details = [
     "Analyzing network...",
